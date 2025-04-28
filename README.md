@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[Sobre](#-sobre-o-projeto) | [Backlogs e User Stories](#-backlogs--user-stories) | [Documentação](#-documenta%C3%A7%C3%A3o) | [Tecnologias](#-tecnologias) | [Equipe](#-equipe)
+[Sobre](#-sobre-o-projeto) | [Backlogs e User Stories](#-backlogs--user-stories) | [Documentação](#%EF%B8%8F-documentação) | [Tecnologias](#%EF%B8%8F-tecnologias) | [Equipe](#-equipe)
 
 </div>
 
@@ -68,7 +68,7 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### 1️⃣ Sprint 1
 
-![Sprint planning](https://sqlutions.notion.site/Sprint-Planning-1d0af228490080efba33daa9d53e1c2b#1d0af228490080a1bb1bda4525c90d44)
+[Sprint planning](https://sqlutions.notion.site/Sprint-Planning-1d0af228490080efba33daa9d53e1c2b#1d0af228490080a1bb1bda4525c90d44)
 
 | Épico |  ID  |  Sprint  | Descrição                                                                                     |
 |:-----:|:----:|:--------:|------------------------------------------------------------------------------------------------|
@@ -81,7 +81,7 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### 2️⃣ Sprint 2
 
-![Sprint planning](https://sqlutions.notion.site/Sprint-Planning-1d0af228490080efba33daa9d53e1c2b?pvs=97#1d0af2284900809db198c200f5511a79)
+[Sprint planning](https://sqlutions.notion.site/Sprint-Planning-1d0af228490080efba33daa9d53e1c2b?pvs=97#1d0af2284900809db198c200f5511a79)
 
 | Épico |  ID  |  Sprint  | Descrição                                                                                      |
 |:-----:|:----:|:--------:|-------------------------------------------------------------------------------------------------|
@@ -91,7 +91,7 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### 3️⃣ Sprint 3
 
-![Sprint planning](https://sqlutions.notion.site/Sprint-Planning-1d0af228490080efba33daa9d53e1c2b#1ddaf22849008082be28f182267836fd)
+[Sprint planning](https://sqlutions.notion.site/Sprint-Planning-1d0af228490080efba33daa9d53e1c2b#1ddaf22849008082be28f182267836fd)
 
 | Épico |  ID  |  Sprint  | Descrição                                                                                      |
 |:-----:|:----:|:--------:|-------------------------------------------------------------------------------------------------|
@@ -117,12 +117,13 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ## 🖥️ Documentação
 
-Como planejamento foi feito wireframe para validação do fluxo com o cliente, assim como fluxograma e a modelagem de banco de dados que estão acessíveis [na documentação]()
+Como planejamento foi feito wireframe para validação do fluxo com o cliente, assim como fluxograma e a modelagem de banco de dados que estão acessíveis [na documentação](https://sqlutions.notion.site/API-Sistema-de-pontos-1a7af2284900804dbcf3c383680968a7)
 
 > 🔗 **Links da documentação**<br>
 >
-> - Notion: [API - Sistema de Pontos](https://sqlutions.notion.site/API-Sistema-de-pontos-1a7af2284900804dbcf3c383680968a7)
-> - Sprints planning: [Notion - Sprints planning](https://sqlutions.notion.site/Banco-de-Dados-1baaf2284900801aa2a7ce529ef8be99)
+> - Início: [API - Sistema de Pontos](https://sqlutions.notion.site/API-Sistema-de-pontos-1a7af2284900804dbcf3c383680968a7)
+> - Backlog: [Informações](https://sqlutions.notion.site/Informa-es-1a8af228490080bdbdb6d601067c8db1)
+> - Sprints planning: [Sprints planning](https://sqlutions.notion.site/Banco-de-Dados-1baaf2284900801aa2a7ce529ef8be99)
 
 [→ Voltar ao topo](#projeto-sistema-de-ponto-e-gera%C3%A7%C3%A3o-de-relat%C3%B3rios)
 
@@ -130,4 +131,22 @@ Como planejamento foi feito wireframe para validação do fluxo com o cliente, a
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
 
-[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/) [![Notion](https://img.shields.io/badge/Notion-336791?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) [![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/) [![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+[→ Voltar ao topo](https://github.com/SQLutions-FATEC/API-3-Semestre/blob/main/README.md#projeto-sistema-de-ponto-e-gera%C3%A7%C3%A3o-de-relat%C3%B3rios)
+
+## 👥 Equipe
+
+|                                                                                             | Função         | Nome                             | Redes                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------------------------------------------------------|----------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![davi](https://github.com/user-attachments/assets/08f611cd-614b-41b8-a7a7-cab3065e9aeb)    | Product Owner  | Davi Soares Fernandes dos Santos | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsf21/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviSFS21)                         |
+| ![tiago](https://github.com/user-attachments/assets/2715b681-6533-41bd-a176-4ec9130a1a90)   | Scrum Master   | Tiago Torres dos Reis            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-torres-dos-reis/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TiagoTReis)        |
+| ![augusto](https://github.com/user-attachments/assets/642849b4-3329-4e61-8d77-9a4b84f258de) | Desenvolvedor  | Augusto de Moraes Piatto         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-piatto/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/augustopiatto)            |
+| ![bryan](https://github.com/user-attachments/assets/ee31c3b5-3ba6-4019-8c95-ba03cfa94d4c)   | Desenvolvedor  | Bryan Matheus                    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-matheus-5aa0a3302/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BryanARMatheus)  |
+| ![caina](https://github.com/user-attachments/assets/a6f52b8c-11c7-4f20-9647-004cd04c60bc)   | Desenvolvedor  | Cainã Nascimento Melo            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cain%C3%A3-melo/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CainaNascimentoMelo)     |
+| ![enzo](https://github.com/user-attachments/assets/3211d516-d4a0-48fc-af1d-e1cbef5d1a1e)    | Desenvolvedor  | Enzo Lemos Franco                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-lemos-franco-002651293/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnzoLFranco) |
+| ![gloria](https://github.com/user-attachments/assets/2de16de0-fd28-4700-b5b5-a00702dfce10)  | Desenvolvedora | Glória Brito                     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloriafbrito/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GloBrito)                   |
+| ![joao](https://github.com/user-attachments/assets/984a1b7c-e4fa-4b78-84f1-0391f0f08de5)    | Desenvolvedor  | João Tuschtler Paulista          | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulista/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaopaulista)               |
+| ![lucas](https://github.com/user-attachments/assets/2a1afdae-7de8-4449-9fea-28fac568e960)   | Desenvolvedor  | Lucas Souza                      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-souza-a67a52165/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayWeinberg123)    |
+
+[→ Voltar ao topo](https://github.com/SQLutions-FATEC/API-3-Semestre/blob/main/README.md#projeto-sistema-de-ponto-e-gera%C3%A7%C3%A3o-de-relat%C3%B3rios)
