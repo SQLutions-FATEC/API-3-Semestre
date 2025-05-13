@@ -77,7 +77,7 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 |   1   | US-4 | Sprint 1 | Implementar o cadastro, visualização e edição de empresas para associá-las aos funcionários.  |
 
 **Burndown:**<br />
-![burndown-sprint-1](docs/img/burndown-sprint-1.jpeg)
+![burndown-sprint-1](docs/media/burndown-sprint-1.jpeg)
 
 ### 2️⃣ Sprint 2
 
