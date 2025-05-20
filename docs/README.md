@@ -19,6 +19,12 @@
 - O usuário deve concretizar a edição com uma confirmação;
 - Deve-se oferecer um date picker para a seleção do horário.
 
+<details>
+  <summary>Vídeo 📹</summary>
+
+  // TODO: insert video
+</details>
+
 ---
 
 ### 🖼️ US-3: Como usuário, quero cadastrar, visualizar e editar funcionários incluindo sua foto, para gerenciar os dados no produto.
@@ -43,6 +49,12 @@
 - O usuário não pode selecionar uma função que não esteja na lista;
 - O usuário pode criar uma nova função olhando o último item na lista de sugestões de função.
 
+<details>
+  <summary>Vídeo 📹</summary>
+
+  https://github.com/user-attachments/assets/dd6a49be-2fb7-403a-be00-8cf43823945a
+</details>
+
 ---
 
 ### 🔎 US-4: Como usuário, quero cadastrar, visualizar e editar empresas no produto para saber qual organização está ligada aos funcionário.
@@ -66,15 +78,21 @@
 - CRUD para criação, visualização, edição e deleção de registros;
 - Frontend e backend se comunicando corretamente.
 
+<details>
+  <summary>Vídeo 📹</summary>
+
+  https://github.com/user-attachments/assets/c303429c-e87b-4f9a-aa2b-6cc3a35d29a3
+</details>
+
 ---
 
 ### 📉 Burndown:
 
-![image.png](attachment:f7a514fb-f700-4e54-b88e-5cca25c2fadd:85de5b67-4848-4bbe-a3ab-8684893ed726.png)
+![burndown-sprint-1](https://github.com/user-attachments/assets/a11f1bcd-0bc7-4605-aa12-4b941c4c0dbe)
 
 # 2️⃣ Sprint 2
 
-### 📝 US-2: Como usuário, quero editar o horário de entrada de um funcionário para corrigir eventuais falhas de registro automático.
+### 📝 US-2: Como usuário, quero exportar relatórios em .xlsx para ter acesso aos dados em um formato acessível por outros softwares.
 
 ### 🆗 Definition of Ready (DoR)
 
@@ -94,6 +112,14 @@
 
 - O usuário irá exportar apenas as movimentações que aparecem na listagem;
 - O sistema irá devolver um arquivo .xlsx, apenas.
+
+<details>
+  <summary>Vídeo 📹</summary>
+
+  https://github.com/user-attachments/assets/8c79d382-1f22-4c72-8f98-4598dadb943c
+</details>
+
+---
 
 ### 🗃️ **US-6: Como usuário, quero poder filtrar a busca de registros de movimentação por funcionário, empresa, função e data para obter somente os dados pertinentes.**
 
@@ -117,9 +143,9 @@
 - O usuário pode escolher entre filtrar por funcionário, empresa, função, e um intervalo entre duas datas.
 
 <details>
-<summary>Vídeo</summary>
+  <summary>Vídeo 📹</summary>
 
-![Listagem de movimentações](attachment:media/listagem-de-movimentacoes.mp4)
+  https://github.com/user-attachments/assets/7e05fad5-6087-4081-a549-f830dc9d6257
 </details>
 
 ### 🪖 **US-7: Como usuário, quero poder visualizar as funções de funcionários já cadastradas na aplicação para não gerar registros duplicados com o mesmo valor.**
@@ -144,11 +170,17 @@
 - O usuário não pode selecionar uma função que não esteja na lista;
 - O usuário pode criar uma nova função olhando o último item na lista de sugestões de função.
 
+<details>
+  <summary>Vídeo 📹</summary>
+  
+  https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
+</details>
+
 ---
 
 ### 📉 Burndown:
 
-![WhatsApp Image 2025-04-29 at 21.20.32_808ae989.jpg](attachment:08093e9c-ef2f-4dcd-a250-82c2399980a6:WhatsApp_Image_2025-04-29_at_21.20.32_808ae989.jpg)
+![image](https://github.com/user-attachments/assets/f310821b-a37a-4a8b-8a06-1ae914fb8608)
 
 ### 🎞️ Vídeo da feature:
 
