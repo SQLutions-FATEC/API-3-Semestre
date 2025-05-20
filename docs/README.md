@@ -19,12 +19,6 @@
 - O usuário deve concretizar a edição com uma confirmação;
 - Deve-se oferecer um date picker para a seleção do horário.
 
-<details>
-<summary>Vídeo</summary>
-
-![upload-foto](attachment:media/upload-foto.mp4)
-</details>
-
 ---
 
 ### 🖼️ US-3: Como usuário, quero cadastrar, visualizar e editar funcionários incluindo sua foto, para gerenciar os dados no produto.
@@ -207,4 +201,7 @@
 
 ### 🎯 **Critérios de aceitação**
 
-- Os gráficos ainda serão validados com o cliente.
+- A dashboard apresenta informações pertinentes à carga horária dos funcionários;
+- Os gráficos devem ter cores bem definidas.
+
+### 📉 Burndown:

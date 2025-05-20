@@ -24,11 +24,11 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### 🏁 Entregas de Sprints
 
-| Sprint  | Previsão     | Status       | Histórico                                                                                  |
-|---------|--------------|--------------|--------------------------------------------------------------------------------------------|
-| 01      | 30/03/2025   | Etapa atual  | [Concluída](#sprint-1)                                                                      |
-| 02      | 27/04/2025	 | Etapa futura | [Concluída](#sprint-2)                                                                     |
-| 03      | 25/05/2025	 | Etapa futura | em breve                                                                                   |
+| Sprint | Previsão    | Status       | Histórico              |
+|--------|-------------|--------------|------------------------|
+| 01     | 30/03/2025  | Etapa atual  | [Concluída](#sprint-1) |
+| 02     | 27/04/2025	 | Etapa futura | [Concluída](#sprint-2) |
+| 03     | 25/05/2025	 | Etapa futura | em breve               |
 
 ### 🎬 Apresentação Final
 
@@ -68,33 +68,30 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### 1️⃣ Sprint 1
 
-[Sprint planning](https://sqlutions.notion.site/Sprint-Planning-1d0af228490080efba33daa9d53e1c2b#1d0af228490080a1bb1bda4525c90d44)
+[Sprint planning](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/docs/sprint-3-documentation/docs#1%EF%B8%8F%E2%83%A3-sprint-1)
 
-| Épico |  ID  |  Sprint  | Descrição                                                                                     |
-|:-----:|:----:|:--------:|------------------------------------------------------------------------------------------------|
-|   1   | US-1 | Sprint 1 | Permitir que o usuário altere o horário de entrada de um funcionário para corrigir falhas.     |
-|   3   | US-3 | Sprint 1 | Possibilitar o cadastro, visualização e edição de funcionários com foto.                      |
-|   1   | US-4 | Sprint 1 | Implementar o cadastro, visualização e edição de empresas para associá-las aos funcionários.  |
-
-**Burndown:**<br />
-![burndown-sprint-1](docs/media/burndown-sprint-1.jpeg)
+| Épico |  ID  |  Sprint  | Descrição                                                                                    |
+|:-----:|:----:|:--------:|----------------------------------------------------------------------------------------------|
+|   1   | US-1 | Sprint 1 | Permitir que o usuário altere o horário de entrada de um funcionário para corrigir falhas.   |
+|   3   | US-3 | Sprint 1 | Possibilitar o cadastro, visualização e edição de funcionários com foto.                     |
+|   1   | US-4 | Sprint 1 | Implementar o cadastro, visualização e edição de empresas para associá-las aos funcionários. |
 
 ### 2️⃣ Sprint 2
 
-[Sprint planning](https://sqlutions.notion.site/Sprint-Planning-1d0af228490080efba33daa9d53e1c2b?pvs=97#1d0af2284900809db198c200f5511a79)
+[Sprint planning](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/docs/sprint-3-documentation/docs#2%EF%B8%8F%E2%83%A3-sprint-2)
 
-| Épico |  ID  |  Sprint  | Descrição                                                                                      |
-|:-----:|:----:|:--------:|-------------------------------------------------------------------------------------------------|
-|   2   | US-2 | Sprint 2 | Permitir exportar movimentações filtradas para planilhas .xlsx.                                |
-|   4   | US-6 | Sprint 2 | Adicionar filtros por funcionário, empresa, função e data aos registros de movimentações.      |
-|   5   | US-7 | Sprint 2 | Implementar visualização das funções já cadastradas no sistema.                               |
+| Épico |  ID  |  Sprint  | Descrição                                                                                  |
+|:-----:|:----:|:--------:|--------------------------------------------------------------------------------------------|
+|   2   | US-2 | Sprint 2 | Permitir exportar movimentações filtradas para planilhas .xlsx.                            |
+|   4   | US-6 | Sprint 2 | Adicionar filtros por funcionário, empresa, função e data aos registros de movimentações.  |
+|   5   | US-7 | Sprint 2 | Implementar visualização das funções já cadastradas no sistema.                            |
 
 ### 3️⃣ Sprint 3
 
-[Sprint planning](https://sqlutions.notion.site/Sprint-Planning-1d0af228490080efba33daa9d53e1c2b#1ddaf22849008082be28f182267836fd)
+[Sprint planning](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/docs/sprint-3-documentation/docs#3%EF%B8%8F%E2%83%A3sprint-3)
 
 | Épico |  ID  |  Sprint  | Descrição                                                                                      |
-|:-----:|:----:|:--------:|-------------------------------------------------------------------------------------------------|
+|:-----:|:----:|:--------:|------------------------------------------------------------------------------------------------|
 |   6   | US-5 | Sprint 3 | Permitir criar, visualizar e editar contratos dos funcionários com período de vigência.        |
 |   7   | US-8 | Sprint 3 | Implementar gráficos com base nas movimentações para análises gerenciais.                      |
 
@@ -102,16 +99,16 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### User Stories
 
-| Épico | ID   | Sprint   | Descrição                                                                                                 |
-|:-----:|:----:|:--------:|------------------------------------------------------------------------------------------------------------|
-|   1   | US-1 | Sprint 1 | Permitir que o usuário altere o horário de entrada de um funcionário para corrigir falhas.                 |
-|   2   | US-2 | Sprint 2 | Permitir exportar movimentações filtradas para planilhas .xlsx.                                            |
-|   3   | US-3 | Sprint 1 | Possibilitar o cadastro, visualização e edição de funcionários com foto.                                  |
-|   1   | US-4 | Sprint 1 | Implementar o cadastro, visualização e edição de empresas para associá-las aos funcionários.              |
-|   6   | US-5 | Sprint 3 | Permitir criar, visualizar e editar contratos dos funcionários com período de vigência.                    |
-|   4   | US-6 | Sprint 2 | Adicionar filtros por funcionário, empresa, função e data aos registros de movimentações.                  |
-|   5   | US-7 | Sprint 2 | Implementar visualização das funções já cadastradas no sistema.                                           |
-|   7   | US-8 | Sprint 3 | Implementar gráficos com base nas movimentações para análises gerenciais.                                  |
+| Épico |  ID  |  Sprint  | Descrição                                                                                    |
+|:-----:|:----:|:--------:|----------------------------------------------------------------------------------------------|
+|   1   | US-1 | Sprint 1 | Permitir que o usuário altere o horário de entrada de um funcionário para corrigir falhas.   |
+|   2   | US-2 | Sprint 2 | Permitir exportar movimentações filtradas para planilhas .xlsx.                              |
+|   3   | US-3 | Sprint 1 | Possibilitar o cadastro, visualização e edição de funcionários com foto.                     |
+|   1   | US-4 | Sprint 1 | Implementar o cadastro, visualização e edição de empresas para associá-las aos funcionários. |
+|   6   | US-5 | Sprint 3 | Permitir criar, visualizar e editar contratos dos funcionários com período de vigência.      |
+|   4   | US-6 | Sprint 2 | Adicionar filtros por funcionário, empresa, função e data aos registros de movimentações.    |
+|   5   | US-7 | Sprint 2 | Implementar visualização das funções já cadastradas no sistema.                              |
+|   7   | US-8 | Sprint 3 | Implementar gráficos com base nas movimentações para análises gerenciais.                    |
 
 [→ Voltar ao topo](#projeto-sistema-de-ponto-e-gera%C3%A7%C3%A3o-de-relat%C3%B3rios)
 
