@@ -1,6 +1,11 @@
 # Sprint Planning
 
-[videos](https://www.notion.so/videos-1e5af2284900805bb212d618bc495a2e?pvs=21)
+<details>
+  <summary>Modelagem física do banco de dados</summary>
+
+  ![database](https://github.com/user-attachments/assets/4d08e340-b729-4cbe-97a0-40e723ba8336)
+
+</details>
 
 # 1️⃣ Sprint 1
 
