@@ -24,11 +24,9 @@
 - O usuário deve concretizar a edição com uma confirmação;
 - Deve-se oferecer um date picker para a seleção do horário.
 
-<details>
-  <summary>Vídeo 📹</summary>
+## Vídeo 📹
 
-  [editar-clock-in.webm](https://github.com/user-attachments/assets/07e8519d-d801-4451-a56b-14fac765c98b)
-</details>
+[editar-clock-in.webm](https://github.com/user-attachments/assets/07e8519d-d801-4451-a56b-14fac765c98b)
 
 ---
 
@@ -54,11 +52,9 @@
 - O usuário não pode selecionar uma função que não esteja na lista;
 - O usuário pode criar uma nova função olhando o último item na lista de sugestões de função.
 
-<details>
-  <summary>Vídeo 📹</summary>
+## Vídeo 📹
 
-  https://github.com/user-attachments/assets/dd6a49be-2fb7-403a-be00-8cf43823945a
-</details>
+https://github.com/user-attachments/assets/dd6a49be-2fb7-403a-be00-8cf43823945a
 
 ---
 
@@ -83,11 +79,9 @@
 - CRUD para criação, visualização, edição e deleção de registros;
 - Frontend e backend se comunicando corretamente.
 
-<details>
-  <summary>Vídeo 📹</summary>
+## Vídeo 📹
 
-  https://github.com/user-attachments/assets/c303429c-e87b-4f9a-aa2b-6cc3a35d29a3
-</details>
+https://github.com/user-attachments/assets/c303429c-e87b-4f9a-aa2b-6cc3a35d29a3
 
 ---
 
@@ -118,11 +112,9 @@
 - O usuário irá exportar apenas as movimentações que aparecem na listagem;
 - O sistema irá devolver um arquivo .xlsx, apenas.
 
-<details>
-  <summary>Vídeo 📹</summary>
+## Vídeo 📹
 
-  https://github.com/user-attachments/assets/8c79d382-1f22-4c72-8f98-4598dadb943c
-</details>
+https://github.com/user-attachments/assets/8c79d382-1f22-4c72-8f98-4598dadb943c
 
 ---
 
@@ -147,11 +139,9 @@
 - Prioritariamente, o sistema deve estar filtrando por um parâmetro de cada vez;
 - O usuário pode escolher entre filtrar por funcionário, empresa, função, e um intervalo entre duas datas.
 
-<details>
-  <summary>Vídeo 📹</summary>
+## Vídeo 📹
 
-  https://github.com/user-attachments/assets/7e05fad5-6087-4081-a549-f830dc9d6257
-</details>
+https://github.com/user-attachments/assets/7e05fad5-6087-4081-a549-f830dc9d6257
 
 ### 🪖 **US-7: Como usuário, quero poder visualizar as funções de funcionários já cadastradas na aplicação para não gerar registros duplicados com o mesmo valor.**
 
@@ -175,21 +165,15 @@
 - O usuário não pode selecionar uma função que não esteja na lista;
 - O usuário pode criar uma nova função olhando o último item na lista de sugestões de função.
 
-<details>
-  <summary>Vídeo 📹</summary>
-  
-  https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
-</details>
+## Vídeo 📹
+
+https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
 
 ---
 
 ### 📉 Burndown:
 
 ![image](https://github.com/user-attachments/assets/f310821b-a37a-4a8b-8a06-1ae914fb8608)
-
-### 🎞️ Vídeo da feature:
-
-[listagem-de-movimentacoes.mp4](attachment:0ab65a0c-0b7d-4332-a7fa-98a5ae61a9bd:listagem-de-movimentacoes.mp4)
 
 # 3️⃣Sprint 3
 
@@ -218,11 +202,9 @@
 - A tela de funcionário deve mostrar ao usuário que o funcionário não possui nenhum contrato ativo, se este for o caso;
 - O funcionário deve ter uma empresa e uma função para cada contrato.
 
-<details>
-  <summary>Vídeo 📹</summary>
-  
-  https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
-</details>
+## Vídeo 📹
+
+https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
 
 ---
 
@@ -251,10 +233,8 @@
 - Alertas de movimentação incompleta (registros sem entrada ou saída);
 - Próximos cinco contratos a vencer.
 
-<details>
-  <summary>Vídeo 📹</summary>
-  
-  [dashboard.webm](https://github.com/user-attachments/assets/0876dd8b-acfb-4b42-b3d6-4e1dbf110aff)
-</details>
+## Vídeo 📹
+
+[dashboard.webm](https://github.com/user-attachments/assets/0876dd8b-acfb-4b42-b3d6-4e1dbf110aff)
 
 ### 📉 Burndown:
