@@ -27,7 +27,7 @@
 <details>
   <summary>Vídeo 📹</summary>
 
-  // TODO: insert video
+  [editar-clock-in.webm](https://github.com/user-attachments/assets/07e8519d-d801-4451-a56b-14fac765c98b)
 </details>
 
 ---
@@ -218,6 +218,12 @@
 - A tela de funcionário deve mostrar ao usuário que o funcionário não possui nenhum contrato ativo, se este for o caso;
 - O funcionário deve ter uma empresa e uma função para cada contrato.
 
+<details>
+  <summary>Vídeo 📹</summary>
+  
+  https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
+</details>
+
 ---
 
 ### 📈 **US-8: Como usuário, quero visualizar gráficos baseados nos registros de movimentação para ter visualizações melhores e análises mais pertinentes dos dados.**
@@ -244,5 +250,11 @@
 - Horas trabalhadas por cada cargo com período de data selecionável (Padrão: última semana);
 - Alertas de movimentação incompleta (registros sem entrada ou saída);
 - Próximos cinco contratos a vencer.
+
+<details>
+  <summary>Vídeo 📹</summary>
+  
+  [dashboard.webm](https://github.com/user-attachments/assets/0876dd8b-acfb-4b42-b3d6-4e1dbf110aff)
+</details>
 
 ### 📉 Burndown:
