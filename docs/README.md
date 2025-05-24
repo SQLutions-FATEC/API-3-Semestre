@@ -201,7 +201,11 @@
 
 ### 🎯 **Critérios de aceitação**
 
-- A dashboard apresenta informações pertinentes à carga horária dos funcionários;
-- Os gráficos devem ter cores bem definidas.
+- Contagem de entradas e saídas no último dia;
+- Quantidade total de funcionários com contrato ativo;
+- Quantidade de homens e mulheres com contrato ativo por empresa;
+- Horas trabalhadas por cada cargo com período de data selecionável (Padrão: última semana);
+- Alertas de movimentação incompleta (registros sem entrada ou saída);
+- Próximos cinco contratos a vencer.
 
 ### 📉 Burndown:
