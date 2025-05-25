@@ -1,13 +1,13 @@
 # Sprint Planning
 
+# 1️⃣ Sprint 1
+
 <details>
   <summary>Modelagem física do banco de dados</summary>
 
   ![database](https://github.com/user-attachments/assets/4d08e340-b729-4cbe-97a0-40e723ba8336)
 
 </details>
-
-# 1️⃣ Sprint 1
 
 ### 📝 US-1: Como usuário, quero editar o horário de entrada de um funcionário para corrigir eventuais falhas de registro automático.
 
