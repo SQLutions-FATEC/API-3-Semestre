@@ -35,7 +35,7 @@ Antes de começar, certifique-se de que os seguintes softwares estão instalados
 4. **Executar o backend Spring**
    - No diretório onde está o arquivo `.jar`, execute o comando abaixo para iniciar a aplicação Spring:
      ```bash
-     java -jar <nome-do-arquivo>.jar
+     java -jar checkpoint.jar
      ```
    - Substitua `checkpoint.jar` pelo nome real do arquivo .jar baixado.
    - Aguarde até que a aplicação Spring esteja completamente inicializada.
