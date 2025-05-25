@@ -195,7 +195,7 @@ https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
 - Frontend e backend se comunicando corretamente;
 - O card deve ter requests ou responses documentadas no card do Jira.
 
-## 🎯 **Critérios de aceitação**
+### 🎯 **Critérios de aceitação**
 
 - O usuário pode criar mais de um contrato por vez, escolhendo data de início e data final do contrato, sem necessidade de seleção de horas;
 - O contrato não pode ter a sua data de início posterior à data de término;
@@ -204,7 +204,7 @@ https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
 
 ## Vídeo 📹
 
-https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
+https://github.com/user-attachments/assets/1fb17895-f94a-45a4-920d-053a7343c483
 
 ---
 
@@ -238,3 +238,6 @@ https://github.com/user-attachments/assets/acf250d7-4d48-47b3-b077-0b0ee1b76df0
 [dashboard.webm](https://github.com/user-attachments/assets/0876dd8b-acfb-4b42-b3d6-4e1dbf110aff)
 
 ### 📉 Burndown:
+
+![burndown-sprint-3](https://github.com/user-attachments/assets/70cfbbb8-fb85-43a3-896d-3d0f5732ce66)
+
