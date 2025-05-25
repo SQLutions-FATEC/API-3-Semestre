@@ -37,7 +37,7 @@ Antes de começar, certifique-se de que os seguintes softwares estão instalados
      ```bash
      java -jar <nome-do-arquivo>.jar
      ```
-   - Substitua `<nome-do-arquivo>.jar` pelo nome real do arquivo .jar baixado.
+   - Substitua `checkpoint.jar` pelo nome real do arquivo .jar baixado.
    - Aguarde até que a aplicação Spring esteja completamente inicializada.
 
 5. **Servir o frontend Vue.js**
