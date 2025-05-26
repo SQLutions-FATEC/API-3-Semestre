@@ -24,11 +24,11 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### 🏁 Entregas de Sprints
 
-| Sprint | Previsão    | Status       | Histórico              |
-|--------|-------------|--------------|------------------------|
-| 01     | 30/03/2025  | Etapa atual  | [Concluída](#sprint-1) |
-| 02     | 27/04/2025	 | Etapa futura | [Concluída](#sprint-2) |
-| 03     | 25/05/2025	 | Etapa futura | em breve               |
+| Sprint | Previsão    | Status       | Histórico               |
+|--------|-------------|--------------|-------------------------|
+| 01     | 30/03/2025  | Etapa atual  | [Concluída](#sprint-1)  |
+| 02     | 27/04/2025	 | Etapa futura | [Concluída](#sprint-2)  |
+| 03     | 25/05/2025	 | Etapa futura | [Concluída](#sprint-3)  |
 
 ### 🎬 Apresentação Final
 
@@ -68,7 +68,7 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### 1️⃣ Sprint 1
 
-[Sprint planning](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/docs/sprint-3-documentation/docs#1%EF%B8%8F%E2%83%A3-sprint-1)
+[Sprint planning](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/docs/main/docs#1%EF%B8%8F%E2%83%A3-sprint-1)
 
 | Épico |  ID  |  Sprint  | Descrição                                                                                    |
 |:-----:|:----:|:--------:|----------------------------------------------------------------------------------------------|
@@ -78,7 +78,7 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### 2️⃣ Sprint 2
 
-[Sprint planning](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/docs/sprint-3-documentation/docs#2%EF%B8%8F%E2%83%A3-sprint-2)
+[Sprint planning](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/main/docs#2%EF%B8%8F%E2%83%A3-sprint-2)
 
 | Épico |  ID  |  Sprint  | Descrição                                                                                  |
 |:-----:|:----:|:--------:|--------------------------------------------------------------------------------------------|
@@ -88,7 +88,7 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ### 3️⃣ Sprint 3
 
-[Sprint planning](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/docs/sprint-3-documentation/docs#3%EF%B8%8F%E2%83%A3sprint-3)
+[Sprint planning](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/main/docs#3%EF%B8%8F%E2%83%A3sprint-3)
 
 | Épico |  ID  |  Sprint  | Descrição                                                                                      |
 |:-----:|:----:|:--------:|------------------------------------------------------------------------------------------------|
@@ -114,13 +114,13 @@ O produto solicitado pela Altave é um sistema de pontos que registra as movimen
 
 ## 🖥️ Documentação
 
-Como planejamento foi feito wireframe para validação do fluxo com o cliente, assim como fluxograma e a modelagem de banco de dados que estão acessíveis [na documentação](https://sqlutions.notion.site/API-Sistema-de-pontos-1a7af2284900804dbcf3c383680968a7)
+Como planejamento foi feito wireframe para validação do fluxo com o cliente, assim como fluxograma e a modelagem de banco de dados que estão acessíveis [na documentação](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/main/docs)
 
 > 🔗 **Links da documentação**<br>
 >
-> - Início: [API - Sistema de Pontos](https://sqlutions.notion.site/API-Sistema-de-pontos-1a7af2284900804dbcf3c383680968a7)
-> - Backlog: [Informações](https://sqlutions.notion.site/Informa-es-1a8af228490080bdbdb6d601067c8db1)
-> - Sprints planning: [Sprints planning](https://sqlutions.notion.site/Banco-de-Dados-1baaf2284900801aa2a7ce529ef8be99)
+> - Início: [API - Checkpoint](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/main/docs)
+> - Backlog: [Informações](#-backlogs--user-stories)
+> - Modelagem do Banco de Dados: [Link](https://github.com/SQLutions-FATEC/API-3-Semestre/tree/main/docs#1%EF%B8%8F%E2%83%A3-sprint-1)
 
 [→ Voltar ao topo](#projeto-sistema-de-ponto-e-gera%C3%A7%C3%A3o-de-relat%C3%B3rios)
 
