@@ -6,9 +6,9 @@ Este documento descreve os passos para configurar e executar uma aplicação com
 
 Antes de começar, certifique-se de que os seguintes softwares estão instalados na sua máquina:
 
-- **Node.js e npm**: Necessário para gerenciar e servir o frontend Vue.js.
-- **Java 21**: Requerido para executar o arquivo .jar do backend Spring.
-- **Docker**: Usado para criar e gerenciar o container do PostgreSQL.
+- **[Node.js](https://nodejs.org/en/download) e npm**: Necessário para gerenciar e servir o frontend Vue.js.
+- **[Java 21](https://www.azul.com/downloads/?version=java-21-lts&package=jdk#zulu)**: Requerido para executar o arquivo .jar do backend Spring.
+- **[Docker](https://www.docker.com/products/docker-desktop/)**: Usado para criar e gerenciar o container do PostgreSQL.
 
 ## Passos de Instalação
 
